@@ -1,0 +1,3 @@
+C:/Dev/SFML_Graphics_testing/cmake-build-debug/CMakeFiles/SFML_Graphics_testing.dir
+C:/Dev/SFML_Graphics_testing/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Dev/SFML_Graphics_testing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
